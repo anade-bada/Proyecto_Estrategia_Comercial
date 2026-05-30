@@ -24,6 +24,12 @@ Aplicación de cohortes para evaluar recompra y retención.
 ✅ Detección de patrones de recompra y recurrencia de clientes.
 ✅ Generación de dashboards ejecutivos para monitoreo de KPIs y toma de decisiones estratégicas.
 
+
+![Resumen del panel de control Ejecutivo.jpeg](Resumen del panel de control Ejecutivo.jpeg)
+![Dashboard Análsis Comercial.jpeg](Dashboard Análsis Comercial.jpeg)
+![Panel de análisis de cohortes.jpeg](Panel de análisis de cohortes.jpeg)
+
+
 🛠️ Herramientas Utilizadas
 Power BI / Tableau — visualización y construcción de dashboards
 Modelado de Datos — esquema estrella y relaciones analíticas
