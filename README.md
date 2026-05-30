@@ -1,6 +1,4 @@
-# Proyecto_Estrategia_Comercial
 Estrategia Comercial de Andes Capital Real Estate
-
 📊 Descripción del Proyecto
 Desarrollo de un dashboard interactivo para analizar el desempeño comercial de Andes Capital Real Estate, integrando información de ventas, clientes y propiedades para apoyar decisiones estratégicas de crecimiento, rentabilidad y recurrencia de clientes.
 
